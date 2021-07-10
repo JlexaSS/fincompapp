@@ -1,3 +1,5 @@
+create schema fincompapp;
+
 create table cart (
     id bigint not null,
     count integer not null,
